@@ -1,12 +1,7 @@
 # 💎 Diamond Price Prediction Project
 Welcome to the Diamond Price Prediction project! This project leverages advanced machine learning techniques to predict the price of diamonds based on their physical and quality attributes. With a focus on accuracy and usability, this solution is a must-have for diamond enthusiasts and professionals alike.
 
-## Features
-1. Accurate Predictions: Achieved using the Random Forest algorithm, known for its robustness and precision.
-2. User-Friendly Form: Easily input diamond attributes such as carat, cut, color, clarity, and dimensions.
-3. Real-Time Feedback: Instant prediction results displayed right after submission.
-
-## Technical Details
+## 🔧 Technical Details
 1. Algorithm: Random Forest provides the best accuracy among the tested models.
 2. Attributes Considered:
 - Carat: The weight of the diamond.
@@ -16,10 +11,11 @@ Welcome to the Diamond Price Prediction project! This project leverages advanced
 - Depth, Table, Dimensions (X, Y, Z): Geometric features affecting the diamond's brilliance.
 - Output: Predicted diamond price in USD.
 
-## How It Works
+## ⚙️ How It Works
 1. Input diamond features into the provided form fields.
 
-![Screenshot 2025-01-10 143459](https://github.com/user-attachments/assets/3628719d-0509-405d-9e93-a5a01f34f80f)
+![Screenshot 2025-01-10 144311](https://github.com/user-attachments/assets/8c3d9f03-a8de-49bd-a304-65a4c30b8ac4)
+
 
 2. Click "Submit" to get the price prediction.
 
