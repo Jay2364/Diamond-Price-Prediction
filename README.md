@@ -14,11 +14,11 @@ Welcome to the Diamond Price Prediction project! This project leverages advanced
 ## ⚙️ How It Works
 1. Input diamond features into the provided form fields.
 
-![Screenshot 2025-01-10 144311](https://github.com/user-attachments/assets/8c3d9f03-a8de-49bd-a304-65a4c30b8ac4)
+![Screenshot 2025-01-10 144950](https://github.com/user-attachments/assets/8d19e19c-a919-4095-88cd-180a847f7df0)
 
 
 2. Click "Submit" to get the price prediction.
 
-![Screenshot 2025-01-10 143544](https://github.com/user-attachments/assets/32c3e9c9-17c1-48f5-8055-baa3d4711b2d)
+![Screenshot 2025-01-10 145015](https://github.com/user-attachments/assets/3fff3295-f066-4ff0-bb0c-00fa79c6c970)
 
 3. The predicted price is displayed in real-time.
